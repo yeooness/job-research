@@ -29,7 +29,6 @@
     - AWS 혹은 GCP 기반 서비스를 사용할 수 있는 분
     - Terraform을 이용한 인프라 환경 정의 및 관리를 할 수 있는 분
     - Docker, Kubernetes 활용/학습 경험이 있는 분
-
 - 샌드박스네트워크
 
   - 자격요건
@@ -43,6 +42,28 @@
     - AWS, GCP 등 Cloud 사용 경험
     - Node.js, Java 사용 경험
 
-  
-
-  
+- 토스
+  - 자격요건
+    - React , Vue, Angular 등 SPA 프레임워크 사용에 능숙하신 분이면 좋아요
+    - 단순히 주어진 개발을 해내는 것보다, 주도적으로 문제를 발견하고 분석해 솔루션을 제안할 수 있는 분이 필요해요
+    - TypeScript, Flow를 이용한 JavaScript 정적 타입 분석을 경험해보신 분이면 좋아요.
+  - 사용기술
+    - 코어: React, TypeScript, Next.js
+    - 상태 관리: React-Query, Recoil
+    - 스타일링: Emotion
+    - 패키지 매니저: Yarn Berry, PNPM
+    - 빌드: Webpack, ESBuild, SWC, Babel
+    - CI/CD: GitHub Actions, CircleCI
+- 펄어비스
+- 자격요건
+    - 웹 프로그래밍에 대한 기본적인 이해
+    - RDBMS와 SQL문에 대한 기본적인 이해
+    - 원활한 커뮤니케이션 능
+    - 논리적인 사고와 문제해결능력
+    - 유연하고 긍정적인 사고방식
+    - 학력 무관
+    - 포트폴리오 제출 필수
+  - 우대사항
+    - MsSql, C# ASP.NET 웹 어플리케이션 개발을 해보신 분
+    - CI/CD 개발을 해보신 분
+  - 게임에 관심이 많고 게임 플레이를 많이 해보신 분
